@@ -4,7 +4,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.Arrays;
-//actualixzado
+//actualixzado 2.0
+
 public class CifradorDES {
     
     public static void archivo(String ruta, boolean cifrar, String claveStr) throws Exception {
